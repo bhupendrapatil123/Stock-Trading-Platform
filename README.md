@@ -1,3 +1,3 @@
-📈 Stock Trading Platform
+<span style="font-size:34px; font-weight:800;">📈 Stock Trading Platform</span>
 
-A full-stack MERN-based stock brokerage application that allows users to simulate real trading with features like Holdings, Orders, Watchlist, Funds Management, and Live Market Data UI.
+A full-stack MERN Stock Trading Simulator that provides real-time portfolio tracking, holdings, orders, funds, and watchlist features — built with a modern and responsive UI.
