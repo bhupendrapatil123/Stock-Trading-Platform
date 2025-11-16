@@ -55,3 +55,35 @@ stock-trading-platform/
 git clone https://github.com/yourusername/stock-trading-platform.git
 cd stock-trading-platform
 
+Setup Backend
+cd server
+npm install
+npm run dev
+
+Setup Frontend
+cd client
+npm install
+npm run dev
+
+
+The app should now run on http://localhost:5173.
+
+📸 Screenshots
+
+
+
+
+Note: Replace screenshots with your actual project images.
+
+### 🔗 Useful Links
+
+Frontend Repo
+
+Backend Repo
+
+Figma / UI Design
+
+###🏷 Tags / Keywords
+
+React Node.js Express.js MongoDB MERN Stock Trading Portfolio Management Watchlist Finance App Real-time Data
+
