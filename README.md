@@ -77,11 +77,10 @@ Note: Replace screenshots with your actual project images.
 
 ### 🔗 Useful Links
 
-Frontend Repo
+Frontend Repo https://stock-trading-platform-puce.vercel.app/
 
-Backend Repo
+Backend Repo https://stock-trading-platform-t8hd.onrender.com
 
-Figma / UI Design
 
 ###🏷 Tags / Keywords
 
